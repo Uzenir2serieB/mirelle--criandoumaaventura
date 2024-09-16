@@ -1,0 +1,17 @@
+body {
+ background-color: antiquewhite;
+ color: #8a2 be2;
+ font-family:"Playwrite CU", cursive;
+ display:flex ;
+ justify-content: center;
+ align-items: center ;
+ height: 700px ;
+ margin:0;
+}
+
+button{
+background-color: blue;
+color: aliceblue;
+font-family:"Playwrite CU", cursive;
+}
+
